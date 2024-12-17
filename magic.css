@@ -62,7 +62,7 @@
     font-family: 'Italiana', sans-serif;
     color: #00ADB5;
     position: absolute;/*lets you move the h3 around the .container.*/
-    top: 90px; /* moves the h3 20 pixels above the h2 | Adjusts vertical positioning above the h2 */
+    top: 140px; /* moves the h3 20 pixels above the h2 | Adjusts vertical positioning above the h2 */
     left: 165;    /* aligns the h3 to the left side of the container| Aligns the h3 to the left */
     font-size: 32px; /* Optional: Adjust font size for h3 */
 }
